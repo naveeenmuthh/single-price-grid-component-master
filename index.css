@@ -128,3 +128,12 @@ button:hover{
  background-color: #A9C42D;
  transform: scale(1.02)
 }
+
+@media (max-width: 650px) {
+
+  #bottom-left-card, #bottom-right-card, #main-section {
+   width:100%;
+   height: auto;
+  }
+
+}
